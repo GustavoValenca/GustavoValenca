@@ -24,9 +24,6 @@ Myself
 I'm a Computer Science student at [Federal University of Ceará](https://www.ufc.br/).
 
 - 📺 My favorite series are The 100 and Prison Break
-- 🎮 I love playing a lot of games but my guilty pleasure is brawlhalla
-- 🎵 Always open for/to songs suggestions
-- 🔞 I'm 18 years old
 
 <!---
 Social media
