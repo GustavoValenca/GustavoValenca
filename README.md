@@ -5,7 +5,7 @@ Stats and most used languages
 -->
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoValenca&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoValenca&hide=Jupyter%20Notebook&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoValenca&hide=Jupyter%20Notebook,Makefile&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <!---
