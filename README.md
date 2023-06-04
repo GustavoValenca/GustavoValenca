@@ -47,7 +47,6 @@ Myself
 ## About me
 I'm a Computer Science student at [Federal University of Ceará](https://www.ufc.br/).
 
-- 📺 My favorite series are The 100 and Prison Break
 
 <!---
 Social media
