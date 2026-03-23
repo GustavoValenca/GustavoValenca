@@ -58,6 +58,9 @@ Social media
   <a href="https://www.linkedin.com/in/gustavo-valen%C3%A7a-685137211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!---
+Commit streak
+-->
 <div><br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoValenca&theme=highcontrast"/>
 </div>
