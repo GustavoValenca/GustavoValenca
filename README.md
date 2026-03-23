@@ -61,6 +61,6 @@ Social media
 <!---
 Commit streak
 -->
-<!-- <div><br>
+<div><br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoValenca&theme=highcontrast"/>
-</div> -->
+</div>
